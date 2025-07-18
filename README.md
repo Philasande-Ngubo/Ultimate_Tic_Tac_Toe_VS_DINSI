@@ -1,6 +1,4 @@
-# Tic-Tac-Toe-With-BOT-AI
-Welcome,<br>This project is a tic tac toe game with <i>Two player</i> and a <b>Single player option</b>. <br>
-For the single player option you choose between <i>easy , medium and Hard </i> this was achieved by <br>
-Using Computation to simulate a player each with a unique approach to playing the game  (AI),<br>This project will show
-you how basic game Bots are made .<b></br>To run the project run the "Main" class (all these documents must be on the same folder)</b><br>
-Fair comments are made on the code for understandability. <br>Enjoy.
+# ![clarify_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/c8a00147-c714-4978-8867-879944a7f852) Ultimate Tic Tac Toe with Dinsi
+
+This is a simple Tic Tac Toe game where you will get to test your wits against my Bot Dinsi who is quite capable get in try yourself to see how you'll do
+It consists of 3 different mode easy, medium and impossible I bet you won't be boosting your confindence with easy just go straight and see how you'll fair with Dinsi.
