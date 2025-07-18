@@ -2,5 +2,5 @@
 
 Welcome to a simple Tic Tac Toe game where you can test your wits against my bot, Dinsi!<br>
 Dinsi is quite capable—give it a try and see how well you do. The game features three difficulty modes: Easy, Medium, and Impossible.<br>
-<br><br>
+<br>
 I doubt you'll boost your confidence with Easy mode, so why not jump straight in and see how you fare against Dinsi at a higher level?
